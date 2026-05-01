@@ -2,7 +2,7 @@
 This includes files for Project No. 5
 
 ## Project Overview
-This project involves converting ASIC's existing  into an automated Python code. The goal is to standardize steel construction calculations by replicating all the equations from the “ASIC Steeel Manual Examples (Ex. D.1)” worksheet and create a program that asks you step by step for your information then provides back results for your W-shaped tension memeber. The project will improve reliability and repeatability, while being intuitive to the user to reduce chance of error and standardize steel construction calculations.
+This project involves converting ASIC's existing  into an automated Python code. The goal is to standardize steel construction calculations by replicating all the equations from the “ASIC Steel Manual Examples (Ex. D.1)” worksheet and create a program that asks you step by step for your information then provides back results for your W-shaped tension memeber. The project will improve reliability and repeatability, while being intuitive to the user to reduce chance of error and standardize steel construction calculations.
 
 ## How to Run
 1. Open the Jupyter Notebook (.ipynb file).
