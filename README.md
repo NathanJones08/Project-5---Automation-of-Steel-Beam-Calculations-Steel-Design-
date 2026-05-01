@@ -11,11 +11,11 @@ This project involves converting ASIC's existing  into an automated Python code.
 4. The program will generate a formatted results with calculations.
 
 ## Repository Contents
-- [Jupyter Notebook with automation code](CIVE202_Spring 2026_Group10_Project5_PythonCode.ipynb)
-- [Scope Of Work (SOW)](CIVE202_Spring_2026_Group5_Project2_ScopeOfWork.docx)
-- [Annotated Code Document](CIVE202_Spring_2026_Group5_Project2_AnnotatedCodeDocument.docx)
-- [Technical Report](CIVE202_Spring_2026_Group5_Project2_TechnicalReport.docx)
-- [Gantt Chart](CIVE202_Spring_2026_Group5_Project2_GanttChart.xlsx)
+- [Jupyter Notebook with automation code](CIVE202_Spring_2026_Group10_Project5_PythonCode.ipynb)
+- [Scope Of Work (SOW)](CIVE202_Spring_2026_Group10_Project5_ScopeOfWork.docx)
+- [Annotated Code Document](CIVE202_Spring_2026_Group10_Project5_AnnotatedCodeDocument.docx)
+- [Technical Report](CIVE202_Spring_2026_Group10_Project5_TechnicalReport.docx)
+- [Gantt Chart](CIVE202_Spring_2026_Group10_Project5_GanttChart.xlsx)
 
 ## Notes
 Three W-shaped tension memeber scenarios were researched and evaluated using the automated model to verify accuracy.
