@@ -13,7 +13,7 @@ This project involves converting ASIC's existing  into an automated Python code.
 ## Repository Contents
 - [Jupyter Notebook with automation code](CIVE202_Spring_2026_Group10_Project5_PythonCode.ipynb)
 - [Scope Of Work (SOW)](CIVE202_Spring_2026_Group10_Project5_ScopeOfWork.docx)
-- [Annotated Code Document](CIVE202_Spring_2026_Group10_Project5_AnnotatedCodeDocument.docx)
+- [Annotated Code Document](CIVE202_Spring_2026_Group10_Project5_AnnotatedCodeDocument1.docx)
 - [Technical Report](CIVE202_Spring_2026_Group10_Project5_TechnicalReport.docx)
 - [Gantt Chart](CIVE202_Spring_2026_Group10_Project5_GanttChart.xlsx)
 
