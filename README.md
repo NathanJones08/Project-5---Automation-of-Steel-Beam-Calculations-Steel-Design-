@@ -6,7 +6,7 @@ This project involves converting ASIC's existing  into an automated Python code.
 
 ## How to Run
 1. Open the Jupyter Notebook (.ipynb file).
-2. Run cell.
+2. Run cells in order.
 3. Enter the required variables inputs when prompted.
 4. The program will generate a formatted results with calculations.
 
